@@ -1,1 +1,1 @@
-print(2+2)
+print(int(input("Introduce el primer número:"))+int(input("Introduce el segundo número:")))
